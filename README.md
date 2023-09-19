@@ -1,4 +1,4 @@
-Olá! Eu sou Yuri Baldi!
+<h2>Olá! Eu sou Yuri Baldi!</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-baldi-e-silva-491a10218/)
 
@@ -6,7 +6,7 @@ Olá! Eu sou Yuri Baldi!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriBaldi&layout=compact&theme=radical)
 
 
-Tecnologias que utilizo:
+<h3>Tecnologias que utilizo:</h3>
 <div>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
